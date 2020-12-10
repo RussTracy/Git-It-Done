@@ -1,6 +1,6 @@
 # Git-It-Done
 
-Week 5: Third-Party API's Challenge
+Week 6: Server-Side API's
 
 ## Description
 
@@ -10,9 +10,8 @@ This site was designed to enhance my skills using Server-Side APIs.
 ## Built With
 * HTML
 * CSS
-* BootStrap
-* jQuery
-* Moment.js
+* Server-Side API
+* Git
 
 ## Site Location
 [Git It Done](https://russtracy.github.io/Git-It-Done/)
