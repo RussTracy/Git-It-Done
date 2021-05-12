@@ -1,10 +1,5 @@
 # Git-It-Done
-
-Week 6: Server-Side API's
-
-## Description
-
-This site was designed to enhance my skills using Server-Side APIs.
+This site was designed to enhance my skills using Server-Side APIs. GitHub search site that allows users to find open issues by github user or by topic.
 
 
 ## Built With
